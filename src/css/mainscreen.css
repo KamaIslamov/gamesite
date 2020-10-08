@@ -1,0 +1,8 @@
+.main__nav {
+  width: 280px;
+  height: 1024px;
+  background-color: #00000050;
+}
+.main__nav-logo img {
+  padding: 31px 0 0 75px;
+}
